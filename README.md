@@ -1,7 +1,6 @@
 # climate_change
 
-This projectr concentrates on understanding climate change, how it has been changing and predicting the 
-climate change
+This project concentrates on understanding climate change, how it has been changing and predicting the climate change
 
 In this project we used the data from 1750 to 2015 (source: Kaggle) to perform analysis and prediction
 
