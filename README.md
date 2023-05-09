@@ -13,3 +13,13 @@ data_clean: holds the clean data
 src: holds the code files used for cleaning, analysis and prediction
 
 results: holds the results we obtained from analysis and prediction
+
+
+Teechnologies used:
+
+python (pandas, matplotlib, sklearn), jupiter note book 
+
+Software required:
+
+Any Operating system, python compiler and jupiter notebook
+
